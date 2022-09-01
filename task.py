@@ -32,6 +32,6 @@ print(palindrome('12321'))
 # последней стадии созревания)
 
 class Tomato:
-    states = "no states"
+    states =
     def __init__(self):
 
